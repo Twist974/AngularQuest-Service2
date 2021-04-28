@@ -1,0 +1,17 @@
+[
+    {
+        "nom" : "Margarita",
+        "price" : "7",
+        "img" : "https://images.assetsdelivery.com/compings_v2/pimonova/pimonova1611/pimonova161100032.jpg"
+    }, 
+    {
+        "nom" : "Cocktail sans nom",
+        "price" : "12",
+        "img" : "https://images.assetsdelivery.com/compings_v2/volff/volff1203/volff120300038.jpg"
+    },
+    {
+        "nom" : "Mojito",
+        "price" : "7",
+        "img" : "https://images.assetsdelivery.com/compings_v2/olgabonitas/olgabonitas1508/olgabonitas150800020.jpg"
+    }
+]
